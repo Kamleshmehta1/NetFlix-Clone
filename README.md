@@ -4,7 +4,7 @@
 
 ![Screenshot](./img/SS3.png)
 
-<a href="https://netflixclone-kamleshmehta.netlify.app/" target="_blank">Netflix | Clone</a>
+<a href="https://netflixclone-kamleshmehta.netlify.app/" target="_blank">Netflix | Clone</a> #-- DEMO
 
 
 
