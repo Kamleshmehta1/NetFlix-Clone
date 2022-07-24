@@ -4,6 +4,8 @@
 
 ![Screenshot](./img/SS3.png)
 
+<a href="https://netflixclone-kamleshmehta.netlify.app/" target="_blank">Netflix | Clone</a>
+
 
 
 # Getting Started with Create React App
